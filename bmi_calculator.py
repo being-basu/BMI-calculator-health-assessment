@@ -1,11 +1,15 @@
 # BMI Health Assessment
 
 def calculate_bmi(weight, height):
+    
     """Calculate BMI given weight (kg) and height (m)."""
+    
     return weight / (height ** 2)
 
 def get_bmi_category(bmi):
+    
     """Return the BMI category based on value."""
+    
     if bmi < 18.5:
         return "Underweight"
     elif 18.5 <= bmi <= 24.9:
@@ -16,7 +20,9 @@ def get_bmi_category(bmi):
         return "Obese"
 
 def get_health_advice(category):
+
     """Provide basic health tips based on BMI category."""
+    
     advice = {
         "Underweight": "Increase calorie intake with healthy foods and consult a nutritionist.",
         "Normal weight": "Maintain a balanced diet and regular exercise.",
@@ -54,3 +60,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
