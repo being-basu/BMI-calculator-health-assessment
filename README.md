@@ -1,5 +1,5 @@
-#BMI Calculator & Health Risk Assessment
-##📌 Overview
+# BMI Calculator & Health Risk Assessment
+## 📌 Overview
 This is a simple Command-Line Interface (CLI) Python program that calculates Body Mass Index (BMI) and provides a health risk assessment with basic advice based on the BMI category.
 
 It is a beginner-friendly project designed to demonstrate:
@@ -33,11 +33,11 @@ Obese
 
 📷 Example Output
 ===== BMI Calculator & Health Risk Assessment =====
-Enter your name: Basu
-Enter your age: 23
-Enter your gender (M/F): M
-Enter your height in cm: 171
-Enter your weight in kg: 60
+Enter your name: Basu <br>
+Enter your age: 23 <br>
+Enter your gender (M/F): M <br>
+Enter your height in cm: 171 <br>
+Enter your weight in kg: 60 <br>
 
 ===== Health Report =====
 Name: Basu
