@@ -40,12 +40,12 @@ Enter your height in cm: 171 <br>
 Enter your weight in kg: 60 <br>
 
 ===== Health Report =====
-Name: Basu
-Age: 23
-Gender: M
-BMI: 20.52
-Category: Normal weight
-Health Advice: Maintain a balanced diet and regular exercise.
+Name: Basu <br>
+Age: 23 <br>
+Gender: M <br>
+BMI: 20.52 <br>
+Category: Normal weight <br>
+Health Advice: Maintain a balanced diet and regular exercise. <br>
 
 📂 Project Structure
 bmi_calculator.py   # Main Python file
