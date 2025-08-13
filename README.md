@@ -51,7 +51,7 @@ Health Advice: Maintain a balanced diet and regular exercise. <br>
 bmi_calculator.py   # Main Python file
 README.md           # Project documentation
 
-🚀 How to Run
+🚀 How to Run  <br>
 1️⃣ Clone this repository
 git clone https://github.com/being-basu/BMI-calculator-health-assessment.git
 
