@@ -1,5 +1,5 @@
-BMI Calculator & Health Risk Assessment
-📌 Overview
+#BMI Calculator & Health Risk Assessment
+##📌 Overview
 This is a simple Command-Line Interface (CLI) Python program that calculates Body Mass Index (BMI) and provides a health risk assessment with basic advice based on the BMI category.
 
 It is a beginner-friendly project designed to demonstrate:
