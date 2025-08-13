@@ -24,19 +24,19 @@ Displays health tips according to category
 📷 Example Output
 
 ===== BMI Calculator & Health Risk Assessment =====
-Enter your name: Basu
-Enter your age: 23
-Enter your gender (M/F): M
-Enter your height in cm: 171
-Enter your weight in kg: 60
+-Enter your name: Basu
+-Enter your age: 23
+-Enter your gender (M/F): M
+-Enter your height in cm: 171
+-Enter your weight in kg: 60
 
 ===== Health Report =====
-Name: Basu
-Age: 23
-Gender: M
-BMI: 20.52
-Category: Normal weight
-Health Advice: Maintain a balanced diet and regular exercise.
+-Name: Basu
+-Age: 23
+-Gender: M
+-BMI: 20.52
+-Category: Normal weight
+-Health Advice: Maintain a balanced diet and regular exercise.
 
 📂 Project Structure
 
