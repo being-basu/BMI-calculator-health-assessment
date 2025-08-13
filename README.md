@@ -52,14 +52,16 @@ bmi_calculator.py   # Main Python file
 README.md           # Project documentation
 
 🚀 How to Run
-# 1️⃣ Clone this repository
+1️⃣ Clone this repository
 git clone https://github.com/being-basu/BMI-calculator-health-assessment.git
 
-# 2️⃣ Go inside the folder
+2️⃣ Go inside the folder
 cd BMI-calculator-health-assessment
 
-# 3️⃣ Run the program
+3️⃣ Run the program
+```
 python bmi_calculator.py
+```
 
 🏥 Domain Relevance
 This project is part of a Digital Healthcare learning track.
